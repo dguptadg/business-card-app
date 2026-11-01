@@ -22,7 +22,7 @@ This project was developed using Python and OpenCV as part of my summer internsh
 
 ## Project Structure
 
-`main.py` — Main program
+`main.py` - Main program
 
 `quality_check.py` - Image quality validation
 
